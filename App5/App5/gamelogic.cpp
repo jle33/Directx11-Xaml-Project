@@ -60,7 +60,7 @@ namespace mygamelogic {
 		}
 		else {
 			userarr[butnum] = false;
-			displayText ="Try Again";
+			displayText ="Try Again!!";
 		}
 
 		if (check()) {
